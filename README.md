@@ -14,4 +14,4 @@
 - The app is responsive in different viewports.
 - Scope of UI and functional improvements are there.
 
-### Visit the app here: <a href="https://hackernewssearch.vercel.app/">Link 
+### Visit the app here: 
